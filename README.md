@@ -3,6 +3,13 @@
   languages: objc
 ---
 
+* auto-gen TOC:
+{:toc}
+
+## Arrays in Objective-C
+
+We have already seen how to represent individual data points such as an `NSString` 
+
 # Badges and Schedules
 
 ### Skills: blocks, loops?
